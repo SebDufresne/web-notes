@@ -1,0 +1,25 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "Short project summary",
+  "main": "index.js",
+  "scripts": {
+    "myscript": "ENV=development node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
+
+
+// For Mocha:
+"scripts": {
+  "test": "./node_modules/mocha/bin/mocha"
+}
+
+"scripts": {
+  "test": "mocha"
+}

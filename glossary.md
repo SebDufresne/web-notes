@@ -16,11 +16,26 @@ Read <---> GET
 Update <---> PUT
 Delete <---> DELETE
 
-# I
+## I
 
 ## Idempotent Methods
 Multiple identical requests should have the same effect as a single request.
 
+
+## L
+
+### Library
+an independent collection of code that can be used by programs (not JS specific)
+
+# M
+
+## Module
+JS code in a separate file, that can be required by other JS programs
+
+# P
+
+## Package
+a collection of JS modules, with a package.json, usually published on NPM
 
 ## V
 

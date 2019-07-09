@@ -1,4 +1,4 @@
-#DNS
+# Dig
 
 A variation on the commande dig +trace
 ```

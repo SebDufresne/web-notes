@@ -9,6 +9,8 @@ Example:
 <form class="form-inline" action="/urls" method="POST">
 ```
 
+### [Form Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#Attributes)
+
 
 ### Input
 
